@@ -27,4 +27,4 @@ Comportamiento de compra:
 - Trabajo con múltiples tablas relacionadas
 - Identificación de patrones de comportamiento del consumidor
 
-Este proyecto es perfecto para tu portafolio porque muestra análisis de datos reales de una empresa conocida y demuestra habilidades muy valoradas en el mercado laboral.
+Este proyecto muestra análisis de datos reales de una empresa conocida y demuestra habilidades muy valoradas en el mercado laboral.
