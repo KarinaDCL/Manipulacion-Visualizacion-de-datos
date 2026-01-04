@@ -11,11 +11,15 @@ Analizar los hábitos de compra de los clientes de Instacart para generar insigh
 Principales análisis que realizados:
 Patrones temporales:
 - Horas del día con más pedidos
+  ![Horas del día con más pedidos](Numero de pedidos por hora del dia.png)
 - Días de la semana más populares
+  ![Días de la semana más populares](Dias de la semana mas populares.png)
 - Tiempo entre pedidos
+  ![Tiempo entre pedidos](Tiempo entre pedidos.png)
 
 Comportamiento de compra:
 - Productos más populares
+  ![Productos más populares](Productos más populares.png)
 - Productos más reordenados
 - Cantidad de artículos por pedido
 - Primeros productos que la gente agrega al carrito
